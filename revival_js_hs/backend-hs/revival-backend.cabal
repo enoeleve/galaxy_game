@@ -1,0 +1,14 @@
+cabal-version:      2.4
+name:               revival-backend
+version:            0.1.0.0
+build-type:         Simple
+
+executable revival-backend
+  main-is:          Main.hs
+  hs-source-dirs:   app
+  default-language: Haskell2010
+  build-depends:
+      base >=4.14 && <5,
+      scotty,
+      aeson,
+      text

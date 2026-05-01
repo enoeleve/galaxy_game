@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://progalaxy.3dn.ru/sitemap-blog.xml</loc>
+	</sitemap>
+
+	<sitemap>
+		<loc>https://progalaxy.3dn.ru/sitemap-faq.xml</loc>
+	</sitemap>
+
+	<sitemap>
+		<loc>https://progalaxy.3dn.ru/sitemap-forum.xml</loc>
+	</sitemap>
+
+	<sitemap>
+		<loc>https://progalaxy.3dn.ru/sitemap-load.xml</loc>
+	</sitemap>
+
+	<sitemap>
+		<loc>https://progalaxy.3dn.ru/sitemap-news.xml</loc>
+	</sitemap>
+
+	<sitemap>
+		<loc>https://progalaxy.3dn.ru/sitemap-photo.xml</loc>
+	</sitemap>
+
+	<sitemap>
+		<loc>https://progalaxy.3dn.ru/sitemap-publ.xml</loc>
+	</sitemap>
+
+	<sitemap>
+		<loc>https://progalaxy.3dn.ru/sitemap-site.xml</loc>
+	</sitemap>
+</sitemapindex>
