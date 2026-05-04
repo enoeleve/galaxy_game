@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Galaxy Platformer Prototype</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <section class="chat-panel">
+        <div class="chat-log" id="chat-log">
+          <p>(16:38) Admin: привет лунатики...</p>
+          <p>(16:45) Мяч: Матч между игроками уже начался!</p>
+          <p>* Admin пнул мяч</p>
+          <p>(16:47) Мяч: ГОЛ! Счет в матче: 3:2</p>
+        </div>
+      </section>
+
+      <section class="scene-panel">
+        <div class="target-header" id="target-nickname">Player</div>
+        <canvas id="game-canvas" aria-label="Игровая сцена"></canvas>
+        <div class="target-controls">
+          <button id="target-prev" aria-label="Предыдущий персонаж">&#9664;</button>
+          <button id="target-next" aria-label="Следующий персонаж">&#9654;</button>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
